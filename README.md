@@ -1,4 +1,5 @@
 # PIE-olin
+Principles of Integrated Engineering - Olin College (Fall '25)
 
 ## Mini Project 1 - Bike Lights
 
